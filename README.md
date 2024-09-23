@@ -167,6 +167,11 @@ Os atendimentos são armazenados no arquivo `attendances.json`, que contém um a
 
 **Bot:** Obrigado, **João**! Seu atendimento será agendado. Até mais!
 
+## Tecnologias Utilizadas
+- [Node.js](https://nodejs.org/) - Ambiente de execução para JavaScript.
+- [Venom Bot](https://github.com/orkestral/venom) - Biblioteca para automação de WhatsApp.
+- [fs](https://nodejs.org/api/fs.html) - Módulo nativo do Node.js para manipulação de arquivos.
+
 ## Personalização
 
 - Você pode personalizar o fluxo de atendimento ajustando o código no arquivo index.js. Adicione novas perguntas ou altere o comportamento do bot conforme as suas necessidades.
