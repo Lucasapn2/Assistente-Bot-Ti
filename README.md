@@ -34,7 +34,7 @@ Para rodar o projeto, é necessário ter:
 ## Instalação
 
 ### 1. Clone o repositório para o seu ambiente local:
-- git clone https://github.com/seu-usuario/whatsapp-atendimento-bot.git
+-  git clone https://github.com/Lucasapn2/Assistente-Bot-Ti.git
 
 ### 2. Instale as dependências necessárias:
 - npm install venom-bot
