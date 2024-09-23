@@ -1,4 +1,4 @@
-# Sistema de Atendimento de TI via WhatsApp
+# Assistente de Suporte TI via WhatsApp
 <img src="https://github.com/user-attachments/assets/10d68bf1-1e56-484f-b195-f7f688489fbb" alt="image" width="300"/>
 
 
