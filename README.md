@@ -1,5 +1,6 @@
 # Sistema de Atendimento via WhatsApp com Venom Bot
-  ![image](https://github.com/user-attachments/assets/10d68bf1-1e56-484f-b195-f7f688489fbb)
+<img src="https://github.com/user-attachments/assets/10d68bf1-1e56-484f-b195-f7f688489fbb" alt="image" width="300"/>
+
 
 ## Descrição
 Este projeto é um sistema de atendimento automatizado via **WhatsApp** que utiliza a biblioteca **[venom-bot](https://www.npmjs.com/package/venom-bot)**. 
