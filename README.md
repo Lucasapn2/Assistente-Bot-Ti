@@ -12,6 +12,8 @@ Ele simula uma assistente virtual chamada **Amanda**, que coleta informações s
 
 ## Funcionalidades
 - **Atendimento automatizado**: O bot responde automaticamente a mensagens enviadas por usuários.
+- **Suporte a múltiplos dispositivos**: O bot pode ser usado em diferentes dispositivos, mantendo a sessão ativa.
+
 - **Fluxo de coleta de informações**: O usuário fornece dados através de mensagens de texto, como:
   - Nome
   - Unidade
