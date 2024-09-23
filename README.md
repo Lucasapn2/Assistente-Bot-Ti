@@ -56,7 +56,7 @@ venom
   .create({
     session: 'session-name', // Nome da sessão
     multidevice: true, // Suporte a multi-dispositivos
-    headless: true, // Navegador invisível
+    headless: false, // Navegador invisível
     logQR: false, // Desativa o log do QR code no terminal
     browserArgs: ['--no-sandbox', '--disable-setuid-sandbox'], // Argumentos adicionais
   })
