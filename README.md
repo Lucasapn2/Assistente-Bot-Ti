@@ -168,9 +168,15 @@ Os atendimentos são armazenados no arquivo `attendances.json`, que contém um a
 **Bot:** Obrigado, **João**! Seu atendimento será agendado. Até mais!
 
 ## Tecnologias Utilizadas
+
+![Node.js](https://img.shields.io/badge/Node.js-v14%2B-green) 
+![Venom Bot](https://img.shields.io/badge/Venom--bot-v3.1.9-blue)
+![fs](https://img.shields.io/badge/Node.js%20fs-built--in-yellow)
+
 - [Node.js](https://nodejs.org/) - Ambiente de execução para JavaScript.
 - [Venom Bot](https://github.com/orkestral/venom) - Biblioteca para automação de WhatsApp.
 - [fs](https://nodejs.org/api/fs.html) - Módulo nativo do Node.js para manipulação de arquivos.
+
 
 ## Personalização
 
