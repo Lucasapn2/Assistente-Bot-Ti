@@ -41,7 +41,7 @@ Para rodar o projeto, é necessário ter:
 -  git clone https://github.com/Lucasapn2/Assistente-Bot-Ti.git
 
 ### 2. Instale as dependências necessárias:
-- npm install venom-bot
+- npm install venom-bot **[venom-bot](https://www.npmjs.com/package/venom-bot)**. 
 
 ## Como Executar
 
@@ -63,7 +63,7 @@ venom
   .then((client) => start(client))
   .catch((error) => console.error(error)); // Lida com erros de inicialização
 ```
-## 2. O Venom Bot irá:
+## 2. O Venom Bot irá: **[venom-bot](https://www.npmjs.com/package/venom-bot)**.  
 - Criar uma nova sessão no WhatsApp com base no QR code que será gerado na primeira execução.
   ![image](https://github.com/user-attachments/assets/59db6536-3fee-4579-b5d5-0ee18431bd22)
 
