@@ -2,6 +2,8 @@
 <img src="https://github.com/user-attachments/assets/10d68bf1-1e56-484f-b195-f7f688489fbb" alt="image" width="300"/>
 
 
+![Node.js](https://img.shields.io/badge/Node.js-v14%2B-green) ![NPM](https://img.shields.io/badge/NPM-v6.14.4-red) ![venom-bot](https://img.shields.io/badge/Venom--bot-v3.1.9-blue)
+
 ## Descrição
 Este projeto é um sistema de atendimento automatizado via **WhatsApp** que utiliza a biblioteca **[venom-bot](https://www.npmjs.com/package/venom-bot)**. 
 
@@ -9,11 +11,9 @@ Ele simula uma assistente virtual chamada **Amanda**, que coleta informações s
 
 ---
 
-
 ## Funcionalidades
 - **Atendimento automatizado**: O bot responde automaticamente a mensagens enviadas por usuários.
 - **Suporte a múltiplos dispositivos**: O bot pode ser usado em diferentes dispositivos, mantendo a sessão ativa.
-
 - **Fluxo de coleta de informações**: O usuário fornece dados através de mensagens de texto, como:
   - Nome
   - Unidade
