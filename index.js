@@ -20,7 +20,7 @@ venom
   })
   .catch((error) => console.log(error)); // logs para lidar com erros de inicialização 
 
-// Armazena dados de sessão temporários obs não mexer
+// Armazena dados de sessão temporários
 const sessionData = {};
 
 // Conjunto de sessões concluídas, inicializado com dados do arquivo JSON
@@ -32,7 +32,7 @@ function readAttendances() {
     const data = fs.readFileSync(path); // Lê os dados do arquivo
     return JSON.parse(data); // Converte os dados de JSON para objeto
   }
-  return []; // Retorna um array vazio se o arquivo não existir n mexa da bug 
+  return []; // Retorna um array vazio se o arquivo não existir 
 }
 
 // Função para escrever atendimentos no arquivo JSON
